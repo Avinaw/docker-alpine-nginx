@@ -1,6 +1,6 @@
 # Nginx 1.11.6 - Mainline version
 
-FROM alpine:3.4
+FROM alpine:3.10
 MAINTAINER Adrian B. Danieli "https://github.com/sickp"
 
 EXPOSE 80 443
