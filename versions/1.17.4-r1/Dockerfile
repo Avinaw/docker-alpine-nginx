@@ -1,4 +1,4 @@
-FROM alpine:3.10.2
+FROM alpine:3.12
 LABEL maintainer "Adrian B. Danieli - https://github.com/sickp"
 
 EXPOSE 80 443
